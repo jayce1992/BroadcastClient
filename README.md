@@ -18,7 +18,7 @@ Server supports 4 languages: korean, english, russian and french(If you want, yo
 
 You will find the lists of Supported languages in Additional references below.
 
-## Workflow
+## How it works
 ### Server
 1. Listens for incoming voice message from any client that is connected to the Server.
 2. Broadcast the message to other clients, except for the client who sent the message.
